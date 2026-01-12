@@ -35,7 +35,7 @@ The dashboard is built in **Google Colab** and allows users to explore the data 
 
 ## **Getting Started**
 
-1. Open the notebook in [Google Colab] (https://colab.research.google.com/drive/1vthe2LUMF9HQHQOVx7EK32c5-GePPox9?usp=sharing) 
+1. Open the notebook in (https://colab.research.google.com/drive/1vthe2LUMF9HQHQOVx7EK32c5-GePPox9?usp=sharing) 
 2. Upload `youtube.db` when prompted  
 3. Run all cells to explore the interactive dashboard  
 
