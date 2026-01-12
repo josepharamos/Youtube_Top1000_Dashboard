@@ -1,6 +1,6 @@
 # Youtube_Top1000_Dashboard
 
-**Project Overview**
+## **Project Overview**
 This project analyzes the top 1000 Youtube channels using a SQLite database and Python. The goal is to explore channel performance, efficiency, and growth trends across categories using interactive visualizations.
 
 The dashboard is built in **Google Colab** and allows users to explore the data dynamically with charts, tables, and KPI summaries.
@@ -35,9 +35,10 @@ The dashboard is built in **Google Colab** and allows users to explore the data 
 
 ## **Getting Started**
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/github/YourUsername/YouTube_Top1000_Dashboard/blob/main/youtube_dashboard_colab.ipynb)  
-2. Upload `youtube.db` when prompted  
-3. Run all cells to explore the interactive dashboard  
+1. Open the notebook in [Google Colab]
+https://colab.research.google.com/drive/1vthe2LUMF9HQHQOVx7EK32c5-GePPox9?usp=sharing 
+3. Upload `youtube.db` when prompted  
+4. Run all cells to explore the interactive dashboard  
 
 ---
 
