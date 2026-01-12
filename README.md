@@ -56,4 +56,10 @@ The dashboard is built in **Google Colab** and allows users to explore the data 
 <img width="532" height="458" alt="image" src="https://github.com/user-attachments/assets/5e8ac479-578a-4b87-b93a-ceb69709ceb2" />
 <img width="527" height="351" alt="image" src="https://github.com/user-attachments/assets/01d5948e-cc47-48b3-b6e6-510ed699bb9e" />
 
+---
 
+## **Future Improvements**
+
+- Add subscriber growth trends over time  
+- Include more advanced efficiency metrics (subs per million views, engagement ratio)  
+- Implement a fully interactive web dashboard outside Colab (e.g., Streamlit or Dash)
